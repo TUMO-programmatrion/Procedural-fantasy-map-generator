@@ -57,3 +57,40 @@ Ce dépôt accueille notre **projet final** pour le **Masterlabs Programmation**
 
 ## 📦 Structure du Projet (Prévue)
 
+
+---
+
+## 🤝 Contributeurs
+
+- **[oromiselda2](https://github.com/Oromiselda2)** – Développeur principal et créateur de l’application backend
+- **[GooglA0000](https://github.com/GoogleA0000)** – Designer principal, UI/UX, Visualisation 3D
+
+**Mentor** : Luka Piskorec (TUMO Paris)
+
+---
+
+## 📄 Licence
+
+Ce projet est open source et disponible sous la **[Licence MIT](LICENSE)**.
+
+---
+
+## 💡 Inspiration & Ressources
+
+- [Génération de monde Minecraft](https://minecraft.fandom.com/wiki/World_generation)
+- [Documentation Three.js](https://threejs.org/docs/)
+- [The Book of Shaders: Noise](https://thebookofshaders.com/11/)
+
+---
+
+## 📢 Restez à l’écoute !
+
+🔜 *Ce projet est en cours de développement. Revenez bientôt pour des mises à jour, du code et des démos !*
+
+💬 *Vous avez des idées ou souhaitez contribuer ? Ouvrez une issue ou contactez-nous !*
+
+---
+
+✨ *Que générera votre graine ?*
+
+© 2026 oromiselda2 & GooglA0000. Tous droits réservés.
