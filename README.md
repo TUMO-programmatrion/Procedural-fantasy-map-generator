@@ -63,7 +63,7 @@ This repository hosts our **final project** for the **Programmation Masterlabs**
 - **[oromiselda2](https://github.com/Oromiselda2)** – Lead Developer annd backend web applicaon creator
 - **[GooglA0000](https://github.com/GoogleA0000)** – Lead Designer, UI/UX, 3D Visualization
 
-**Mentor**: Luka Piskorec (TUMO Paris)
+**Mentor**: Luka Piskorec 
 
 ---
 
