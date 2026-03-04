@@ -4,6 +4,8 @@
 
 ---
 
+[Français](docs/README.fr.md)
+
 ## 🌱 About This Project
 
 This repository hosts our **final project** for the **Programmation Masterlabs** at [TUMO Paris](https://paris.tumo.org/), led by Luka Piskorec.
@@ -92,4 +94,8 @@ This project is open source and available under the **[MIT License](LICENSE)**.
 ✨ *What will your seed generate?*
 
 © 2026 oromiselda2 & GooglA0000. All rights reserved.
+
+
+
+- [English](docs/README.en.md)
 
